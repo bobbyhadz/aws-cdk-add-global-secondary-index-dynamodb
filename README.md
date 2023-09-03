@@ -1,7 +1,7 @@
 # Add a Dynamodb Global Secondary Index in AWS CDK [GSI]
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-add-global-secondary-index-dynamodb)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-dynamodb-table)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
